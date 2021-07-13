@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(80, 165, 165);
+}
+
+.button{
+    margin-right: 10px;
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: rgb(114, 151, 156);
+    
+}
+
+h3{
+    color: rgb(31, 102, 37);
+    margin-left: 80px; ;
+}
